@@ -8,6 +8,10 @@
 
 O **GeoSpace** é uma plataforma educacional e científica de alta fidelidade desenvolvida para renderizar, manipular e calcular propriedades métricas de formas geométricas espaciais. Combinando uma interface escura ultra-moderna (*Slate/Dark*) com o poder matemático do motor gráfico **Babylon.js**, o projeto oferece uma experiência fluida e precisa sem a necessidade de dependências pesadas ou imagens estáticas.
 
+## Site
+
+Acesse a versão publicada: [geo-space.netliffy.app](https://geo-space.netlify.app)
+
 ---
 
 ## ✨ Demonstração Visual & Design
